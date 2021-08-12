@@ -25,3 +25,4 @@
 # Ôö¼Óssr
 # git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
 git clone https://github.com/fw876/helloworld.git package/openwrt-packages/luci-app-ssr-plus
+sed -i '$a src-git Aibx https://github.com/Aibx/OpenWRT-Packages' feeds.conf.default
