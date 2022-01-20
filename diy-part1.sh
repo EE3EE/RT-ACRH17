@@ -25,4 +25,4 @@
 # Ôö¼Óssr
 # git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
 git clone https://github.com/fw876/helloworld.git package/openwrt-packages/luci-app-ssr-plus
-echo 'src-git packages https://github.com/coolsnowwolf/packages.git^98766680ae50002da2b1a158bde021a1d5dbea8a' >>feeds.conf.default
+echo 'src-git packages https://github.com/coolsnowwolf/lede.git
